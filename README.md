@@ -10,7 +10,7 @@ def registrar_usuario(usuarios):
     cargo = input("Cargo: ")
     usuarios[documento] = {"nombre": nombre, "cargo": cargo, "asistencias": []}
     print("Usuario registrado.")
-
+    
 def mostrar_menu():
     print("\n===== MENÚ PRINCIPAL =====")
     print("1. Registrar nuevo usuario")
@@ -18,8 +18,8 @@ def mostrar_menu():
     print("3. Ver historial de asistencias")
     print("4. Salir")
     return input("Seleccione una opción: ")
-
-# Programa principal
+    
+Programa principal
 usuarios = {}
 opcion = ""
 while opcion != "4":
