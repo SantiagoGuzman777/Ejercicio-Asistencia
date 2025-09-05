@@ -36,9 +36,7 @@ while opcion != "4":
         print("Opción inválida.")
 
 
-
-
-de rest van muy bien
+van muy bien 
 
            /\        /\    
             ;  ;      ;  ;   
@@ -57,4 +55,4 @@ de rest van muy bien
     ;;                         ;;
    ;;                           ;;
 
-                Vas bien 😺
+                
