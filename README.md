@@ -1,4 +1,5 @@
-Organiza tu código en funciones y usa un menú principal que solo se encargue de llamarlas. Así evitas repetir código, lo vuelves más claro y fácil de mantener.
+Organiza tu código en funciones y usa un menú principal que solo se encargue de llamarlas.
+Así evitas repetir código, lo vuelves más claro y fácil de mantener.
 
 Ejemplo de estructura con funciones:
 
@@ -34,6 +35,11 @@ while opcion != "4":
         print("Saliendo del sistema...")
     else:
         print("Opción inválida.")
+
+
+
+
+
 
 
 van muy bien 
